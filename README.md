@@ -1,4 +1,4 @@
-Product Catalogue & Graphics Analysis (2016)
+
 
 This repository contains the product catalogue and graphics materials created in 2016. It is designed to showcase product visuals and provide insights into marketing and sales materials.
 
