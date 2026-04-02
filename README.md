@@ -21,3 +21,6 @@ You can view the full presentation online here:
 All materials are from 2016.
 Graphics are optimized for presentation purposes.
 This repository is intended for internal reference or portfolio use.
+
+LINK:
+https://docs.google.com/presentation/d/e/2PACX-1vQHbUXJ1b3hwDTxADBwYZN4ixvTYXwduuWF-y3GNW2oYR6qyqfAxu55D-FDRDgsFw_ApSAyXc6xrR_M/pub?start=false&loop=false&delayms=3000&slide=id.g3d3a68475ef_2_38
